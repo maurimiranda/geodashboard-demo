@@ -1,4 +1,4 @@
-const server = 'https://geoserver.siasar.org/geoserver';
+server = 'https://geoserver.siasar.org/geoserver';
 const categories = {
   property: 'score',
   values: {
