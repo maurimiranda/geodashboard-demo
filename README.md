@@ -1,2 +1,3 @@
-# geo-dashboard-demo
-GeoDashboard Demo
+# GeoDashboard Demo
+
+Demo applications for [GeoDashboard](https://github.com/maurimiranda/geo-dashboard/)
